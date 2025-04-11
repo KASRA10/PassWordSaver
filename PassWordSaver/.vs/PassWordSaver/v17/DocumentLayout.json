@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORKSPACE\\PassWordSaver\\PassWordSaver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1509DE0A-9497-4A71-8F3D-0844FAE0F6A7}|PassWordSaver\\PassWordSaver.csproj|e:\\workspace\\passwordsaver\\passwordsaver\\passwordsaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1509DE0A-9497-4A71-8F3D-0844FAE0F6A7}|PassWordSaver\\PassWordSaver.csproj|solutionrelative:passwordsaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\WORKSPACE\\PassWordSaver\\PassWordSaver\\PassWordSaver\\Form1.cs",
+              "RelativeDocumentMoniker": "PassWordSaver\\Form1.cs",
+              "ToolTip": "E:\\WORKSPACE\\PassWordSaver\\PassWordSaver\\PassWordSaver\\Form1.cs [Design]",
+              "RelativeToolTip": "PassWordSaver\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:28:28.072Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
