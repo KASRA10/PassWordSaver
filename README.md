@@ -1,5 +1,11 @@
 # Password Saver
 
+# Image Preview
+![K10PassSAver](https://github.com/user-attachments/assets/c0701ea3-7d81-43e1-8408-29021afecc7a)
+
+# Video Preview
+https://github.com/user-attachments/assets/5d84e33e-0c51-4eb3-bf53-888daa958b58
+
 ## Introduction
 Password Saver is a Windows Form application designed to securely store and manage usernames, passwords, and titles. It uses an intuitive UI and configuration-based storage to simplify access and organization of sensitive credentials.
 
